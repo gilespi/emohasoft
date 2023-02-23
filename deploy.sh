@@ -1,4 +1,4 @@
-./# build
+# build
 npm run build
 
 # save the latest commit hash as a string
@@ -20,6 +20,6 @@ git commit -m "deploy (commit: $COMMIT)"
 
 # if you are using HTTPS/2FA authentication
 # git push -f https://github.com/<USER-NAME>/<REPO>.git master:gh-pages
-git push -f https://github.com/gilespi/emphasoft-task.git master:gh-pages
+git push -f https://github.com/gilespi/emphasoft.git master:gh-pages
 
 cd ..
