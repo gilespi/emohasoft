@@ -39,7 +39,7 @@ export default {
         //     returnSecureToken: true,
         // };
         // let response = await Axios.post(`https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=
-        // AIzaSyCyOa2zQ2WKUq_hGlvXYAT8-8l7AaqMf1k`,
+        // AIzaSyA9HEOZrRHZP026VQObeDz2PVD_GLpMV50`,
         //     postData,
         // )
         // if (response.status === 200) {
