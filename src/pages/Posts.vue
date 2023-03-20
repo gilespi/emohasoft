@@ -43,7 +43,7 @@ export default {
     mounted() {
         this.showLoading(true);
         axiosInstance
-          .get(`https://emphasoft-fe3f5-default-rtdb.firebaseio.com/posts.json`)
+          .get(`https://vue-completecourse.firebaseio.com/posts.json`)
             .then((response) => {
 
                 this.formatPosts(response.data);
