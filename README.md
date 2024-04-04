@@ -1,5 +1,7 @@
 # Emphasoft task
 
+User register and login form with firebase
+
 ## Project setup
 ```
 npm install
