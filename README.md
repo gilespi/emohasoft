@@ -1,6 +1,6 @@
 # Emphasoft task
 
-User register and login form with firebase
+Example User register and login form with firebase
 
 ## Project setup
 ```
